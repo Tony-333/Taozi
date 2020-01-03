@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println("hello World");
 	System.out.println("zhongmeitao");
 	System.out.println("chenhuiyi");
+	System.out.println(a);
 }
 }
